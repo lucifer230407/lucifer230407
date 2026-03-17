@@ -34,4 +34,4 @@ To become a developer who doesn't just write code — but builds systems that th
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer230407&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=lucifer230407&theme=darkhub)
+![Trophies](![Trophies](https://gh-profile-trophies.vercel.app/?username=lucifer230407&theme=darkhub))
