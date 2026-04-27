@@ -74,9 +74,6 @@ To become a developer who doesn't just write code — but builds systems that th
 
 ---
 
-## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=lucifer230407)
-
 ## 💻 Most Used Languages:
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer230407&layout=compact&theme=tokyonight)
 
