@@ -57,7 +57,6 @@ To become a developer who doesn't just write code — but builds systems that th
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ Tools & DevOps
@@ -69,7 +68,6 @@ To become a developer who doesn't just write code — but builds systems that th
 
 ### ⚔️ DSA & CP
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 ![STL](https://img.shields.io/badge/C++_STL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
@@ -77,5 +75,3 @@ To become a developer who doesn't just write code — but builds systems that th
 ## 💻 Most Used Languages:
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer230407&layout=compact&theme=tokyonight)
 
-## 🔥 GitHub Streak:
-![Streak](https://streak-stats.demolab.com?user=lucifer230407&theme=tokyonight)
